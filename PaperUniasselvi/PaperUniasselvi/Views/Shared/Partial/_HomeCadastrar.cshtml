@@ -1,0 +1,49 @@
+﻿@model IEnumerable<CadastroDeEntidades>
+
+<div class="container">
+    <div class="container">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-warning p-1">
+            <i class="bi bi-chevron-left"></i> Voltar
+        </a>
+    </div>
+    <div class="container-fluid">
+        <span class="path">home/patrocinador/</span>
+    </div>
+    <div class="container-fluid text-end mb-5 mt-3">
+        <a asp-controller="Patrocinador" asp-action="Cadastrar" class="btn btn-primary w-25 p-3">Cadastrar uma novo patrocinador</a>
+    </div>
+    <table class="table">
+        <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">R.Patrocinador</th>
+            <th scope="col">CNPJ</th>
+            <th scope="col">Email</th>
+            <th scope="col">Telefone</th>
+            <th scope="col">Última Modifcação</th>
+        </tr>
+        </thead>
+        <tbody class="table-group-divider">
+        <tr>
+            @if (Model != null)
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.id</td>
+                        <td>@item.registro</td>
+                        <td>@item.cnpj</td>
+                        <td>@item.email</td>
+                        <td>@item.telefone</td>
+                        <td>@item.dataDaAtualizacao</td>
+                        <td>
+                            <a asp-route-id="@item.id" asp-controller="Patrocinador" asp-action="Editar" class="btn btn-warning mx-2">Editar</a>
+                            <a asp-route-id="@item.id" asp-controller="Patrocinador" asp-action="Delete" class="btn btn-danger mx-2">Excluir</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tr>
+        </tbody>
+    </table>
+</div>

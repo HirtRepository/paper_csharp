@@ -1,0 +1,49 @@
+﻿.header {
+    height: 10rem;
+    background-color: #ebe7e7;
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header > h1{
+    width: 100%;
+    height: 100%;
+}
+
+.icons {
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d0d0d0 !important;
+
+}
+
+.icons i {
+    font-size: 5rem;
+    color: #55694d;
+
+}
+
+.btn-radius {
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    padding: 1.5rem !important;
+    background-color: #424242;
+    border: none !important;
+}
+
+.title_color_primary{
+    color: #898989;
+}
+
+.title_color {
+    color: #72964f;
+}
+
+.path{
+    color: #55694d;
+    font-size: 1.2rem;
+}

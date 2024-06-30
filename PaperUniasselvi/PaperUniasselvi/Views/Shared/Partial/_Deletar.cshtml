@@ -1,0 +1,59 @@
+﻿@model CadastroDeEntidades;
+<div class="container-fluid">
+    <div class="container-fluid">
+        <div class="container-fluid">
+            <a asp-controller="Patrocinador" asp-action="Index" class="btn btn-warning p-1">
+                <i class="bi bi-chevron-left"></i> Voltar
+            </a>
+        </div>
+    </div>
+    <div class="container-fluid mb-5">
+        <div class="container-fluid">
+            <span class="path">home/patrocinador/excluir</span>
+        </div>
+    </div>
+    <form class="container-fluid d-flex flex-column gap-5" asp-controller="Patrocinador" asp-action="Delete" method="POST">
+        <input type="hidden" asp-for="id" />
+        <div class="container-fluid d-flex gap-3">
+            <div class="container-fluid d-flex flex-column gap-2">
+                <h6>Registrar um patrocinador</h6>
+                <span class="text-danger" asp-validation-for="registro"></span>
+                <div class="form-floating w-100">
+                    <input asp-for="registro" type="text" class="form-control" id="floatingInput" placeholder="name@example.com" disabled>
+                    <label for="floatingInput">Registro</label>
+                </div>
+            </div>
+            <div class="container-fluid d-flex flex-column gap-2">
+                <h6>Registrar um CNPJ</h6>
+                <span class="text-danger" asp-validation-for="cnpj"></span>
+                <div class="form-floating w-100">
+                    <input asp-for="cnpj" type="text" class="form-control" id="floatingPassword" placeholder="Password" disabled>
+                    <label for="floatingPassword">CNPJ</label>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid d-flex gap-3">
+            <div class="container-fluid d-flex flex-column gap-2">
+                <h6>Registrar um Email</h6>
+                <span class="text-danger" asp-validation-for="email"></span>
+                <div class="form-floating w-100">
+                    <input asp-for="email" type="email" class="form-control" id="floatingPassword" placeholder="Password" disabled>
+                    <label for="floatingPassword">Email</label>
+                </div>
+            </div>
+            <div class="container-fluid d-flex flex-column gap-2">
+                <h6>Registrar um Telefone</h6>
+                <span class="text-danger" asp-validation-for="telefone"></span>
+                <div class="form-floating w-100">
+                    <input asp-for="telefone" type="text" class="form-control" id="floatingPassword" placeholder="Password" disabled>
+                    <label for="floatingPassword">Telefone</label>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="container-fluid">
+                <button type="submit" class="btn btn-danger w-100 p-3">Deletar</button>
+            </div>
+        </div>
+    </form>
+</div>

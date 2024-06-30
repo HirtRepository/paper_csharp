@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\controllers\\patrocinadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\controllers\\patrocinadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\patrocinador\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\patrocinador\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\patrocinador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\patrocinador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\shared\\partial\\_homecadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\shared\\partial\\_homecadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\shared\\partial\\_editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\shared\\partial\\_editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\shared\\partial\\_home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\shared\\partial\\_home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\shared\\partial\\_deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\shared\\partial\\_deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\patrocinador\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\patrocinador\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\patrocinador\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\patrocinador\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\models\\cadastrodeentidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\models\\cadastrodeentidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\shared\\partial\\_cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\shared\\partial\\_cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Migrations\\20240630162442_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PaperUniasselvi\\Migrations\\20240630162442_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|c:\\users\\vitor\\documents\\repos\\paperuniasselvi\\paperuniasselvi\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C5375F8F-FEF4-4F55-BE15-29C48319329A}|PaperUniasselvi\\PaperUniasselvi.csproj|solutionrelative:paperuniasselvi\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_HomeCadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\Partial\\_HomeCadastrar.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Shared\\Partial\\_HomeCadastrar.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\Partial\\_HomeCadastrar.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Shared\\Partial\\_HomeCadastrar.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:55:43.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\Partial\\_Editar.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Shared\\Partial\\_Editar.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\Partial\\_Editar.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Shared\\Partial\\_Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T16:42:26.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Patrocinador\\Editar.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Patrocinador\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Patrocinador\\Editar.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Patrocinador\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:55:29.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Patrocinador\\Index.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Patrocinador\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Patrocinador\\Index.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Patrocinador\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:55:30.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PaperUniasselvi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:52:38.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatrocinadorController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Controllers\\PatrocinadorController.cs",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Controllers\\PatrocinadorController.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Controllers\\PatrocinadorController.cs",
+              "RelativeToolTip": "PaperUniasselvi\\Controllers\\PatrocinadorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:53:42.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PaperUniasselvi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:50:42.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\Partial\\_Home.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Shared\\Partial\\_Home.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\Partial\\_Home.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Shared\\Partial\\_Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:55:43.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Deletar.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\Partial\\_Deletar.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Shared\\Partial\\_Deletar.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\Partial\\_Deletar.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Shared\\Partial\\_Deletar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T17:06:21.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Patrocinador\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Patrocinador\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Patrocinador\\Delete.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Patrocinador\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:55:23.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Patrocinador\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Patrocinador\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Patrocinador\\Cadastrar.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Patrocinador\\Cadastrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:55:22.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\Partial\\_Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Shared\\Partial\\_Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\Partial\\_Cadastrar.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Shared\\Partial\\_Cadastrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:55:42.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CadastroDeEntidades.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Models\\CadastroDeEntidades.cs",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Models\\CadastroDeEntidades.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Models\\CadastroDeEntidades.cs",
+              "RelativeToolTip": "PaperUniasselvi\\Models\\CadastroDeEntidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:51:27.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240630162442_update.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Migrations\\20240630162442_update.cs",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Migrations\\20240630162442_update.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Migrations\\20240630162442_update.cs",
+              "RelativeToolTip": "PaperUniasselvi\\Migrations\\20240630162442_update.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:24:42.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\appsettings.json",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\appsettings.json",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\appsettings.json",
+              "RelativeToolTip": "PaperUniasselvi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T15:49:57.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Program.cs",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Program.cs",
+              "RelativeToolTip": "PaperUniasselvi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:48:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:55:16.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:55:40.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:55:37.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "PaperUniasselvi\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Repos\\PaperUniasselvi\\PaperUniasselvi\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "PaperUniasselvi\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-30T15:55:35.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Liga_Feminina_do_Câncer</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/Material.css"  asp-append-version="true"/>
+    <link rel="stylesheet" href="~/css/style.css" asp-apend-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="~/Liga_Feminina_do_Câncer.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid align-items-center">
+                <h1 class="title_color_primary">
+                    LIGA FEMININA   DE<br/>
+                    <span class="title_color">COMBATE AO CÂNCER</span>
+                </h1>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    @RenderSection( "Scripts", required: false )
+</body>
+</html>
